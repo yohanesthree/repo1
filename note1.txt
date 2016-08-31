@@ -1,1 +1,3 @@
 isi dari note1.txt
+
+coba nambah kalimat pada note1.txt
