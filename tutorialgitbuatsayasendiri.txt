@@ -1,0 +1,14 @@
+1. Jalin koneksi antara github dan git dengan command git remote add origin <link github> contoh https://github.com/yohanesthree/repo1.git <repo1 adalah nama repository>
+
+2. Gunakan git init untuk membuat tempat kerja.
+
+3. buat file atau modifikasi file yang sudah ada.
+
+4. setelah buat file baru atau modifikasi jangan lupa git add <nama file> sebelum melakukan upload ke repository pada github
+
+5. untuk melihat status gunakan command git status.
+
+
+6. setelah git add gunakan git commit untuk melakukan commit yang berguna jika sewaktu-waktu ada masalah dan point
+
+7. git push buat upload ke github repository.
